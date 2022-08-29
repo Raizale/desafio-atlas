@@ -4,5 +4,5 @@ Foi utilizado styled-components como estlização
 
 Context API, React router dom, phosphor-react para os icons, moment para o data.
 
-npm i
+npm i, 
 npm run dev
